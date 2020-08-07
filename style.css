@@ -53,9 +53,17 @@ h4{
     font-weight: 700;
     line-height: 2rem;
 }
+
+h3{
+    font-size: 1.6rem;
+    font-weight: 800;
+    letter-spacing: 2px;
+    padding-top: 3rem;
+}
+
 .redes{
-    background-color: lightcoral;
-    height: 100px;
+    background-color:#127C25;
+    
 }
 
 .logo-footer{
@@ -71,4 +79,13 @@ h4{
 .ft{
     padding-top: 4rem;
     padding-bottom: 4rem;
+}
+
+ .fab{
+    font-size: 2em;
+    color: #127C25;
+    padding-left: 1rem;
+}
+.fab, .white{
+    color: white;
 }
